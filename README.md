@@ -1,5 +1,5 @@
 # ScuffedWeather
-Fucked up weather app written in python using easygui
+DAMN 
 
 # How 2 use:
 1. Acquire a maptiler API key (free)
